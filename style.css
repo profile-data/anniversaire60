@@ -1,0 +1,41 @@
+body {
+
+    background-image: url('fond_fete.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    font-family: 'Segoe UI', sans-serif;
+    /* background-color: #fef6e4;*/
+    color: #001858;
+    text-align: center;
+    padding: 2em;
+  }
+  
+  header {
+    margin-bottom: 2em;
+  }
+  
+  h1 {
+    color: #e022c7;
+  }
+  p {
+    font-family: "Gill Sans", sans-serif;
+    font-weight: bold;
+
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 0.75em 1.5em;
+    margin-top: 1em;
+    background-color: #f15c16;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  section {
+    max-width: 800px;
+    margin: 0 auto;
+  }
